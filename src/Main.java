@@ -5,4 +5,11 @@ public class Main {
          audi.model="A3";
          audi.power="500cc";
 
+
+
+        light neon = new light();
+
+        neon.color="red";
+        neon.size="15cm";
+        neon.intensity="7675lumin";
 }}
